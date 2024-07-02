@@ -73,8 +73,3 @@ Enter a URL to scan: https://example.com
 The report was exported successfully
 Enter password for zip file: [your_password]
 Files have been compressed and locked with a password.
-
-![image](https://github.com/GadAzriel/CyberSecurityURLScanner/assets/98973509/3eb56e33-38a2-48db-80d4-97c9184840f9)
-![image](https://github.com/GadAzriel/CyberSecurityURLScanner/assets/98973509/63bb5878-f55c-4d57-824a-f88dd573568d)
-
-
