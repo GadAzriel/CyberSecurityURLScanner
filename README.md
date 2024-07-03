@@ -43,7 +43,7 @@ This script allows you to:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CyberSecurity-URL-Scanner.git
+    git clone https://github.com/GadAzriel/CyberSecurity-URL-Scanner.git
     cd CyberSecurity-URL-Scanner
     ```
 
