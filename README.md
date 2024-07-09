@@ -3,17 +3,6 @@
 This project is an automation script designed to interact with cybersecurity-related APIs, specifically VirusTotal, to scan URLs for potential threats, analyze the retrieved data, and generate detailed reports.  
 The script also includes security measures to protect sensitive information and prevent unauthorized access.
 
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Description
 
 This script allows you to:
